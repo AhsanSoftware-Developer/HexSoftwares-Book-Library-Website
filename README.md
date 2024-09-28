@@ -16,5 +16,5 @@ CSS
 JavaScript
 
 Getting Started
-You can explore the website via link: https://tangerine-kataifi-4b52d2.netlify.app/
+You can explore the website via link: https://snazzy-croquembouche-79ce55.netlify.app/
 Open index.html in your browser to view the website.
